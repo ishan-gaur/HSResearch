@@ -1,4 +1,4 @@
-"""Dynamic asset allocation using an RNN and St. Louis Fed Bank Data."""
+"""Dynamic asset allocation using an DNN and St. Louis Fed Bank Data."""
 import tensorflow as tf
 import sklearn.preprocessing as preprocessing
 import numpy as np
